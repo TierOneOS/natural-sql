@@ -4,3 +4,4 @@ langchain_experimental
 openai
 psycopg2
 python-dotenv
+uvicorn
