@@ -4,7 +4,7 @@ from langchain.utilities import SQLDatabase
 from langchain.chat_models import ChatOpenAI
 from langchain_experimental.sql import SQLDatabaseChain
 
-from app.const import (
+from api.const import (
     LLM_MODEL,
     PG_URI
 )
