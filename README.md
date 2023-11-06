@@ -5,11 +5,7 @@ It only requires a SQL URL to execute any query and get the results in natural l
 Our application is in a trial phase, exploring the capabilities of Large Language Models in conducting SQL database queries via Langchain's SQL Agents. It necessitates possession of an OPENAI_API_KEY for operation.
 
 ## Getting Started
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
-### Demo
-
-[natural-sql-api](https://natural-sql.vercel.app/docs)
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 ### Prerequisites
 * Python 3.9
@@ -54,6 +50,10 @@ docker run -p 3000:3000 natural-sql
 ```
 
 This will start a Uvicorn server inside a Docker container, which will be accessible on `http://localhost:3000`.
+
+### Demo
+
+[natural-sql-api](https://natural-sql.vercel.app/docs)
 
 ## Authors
 
