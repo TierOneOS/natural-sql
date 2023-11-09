@@ -1,7 +1,7 @@
 fastapi
 langchain
 langchain_experimental
-openai=0.28.1
+openai
 psycopg2-binary
 python-dotenv
 uvicorn
